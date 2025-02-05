@@ -4,3 +4,7 @@ The PDF file contains figures and tables explaining the interview design and pre
 1. Participant Information: Demographics and teaching experience of interview participants
 2. Interview Questions: A table with interview questions, along with their connection to preceding dialogue analysis and theoretical frameworks
 3. Statistical Tests on MathDial: Results of statistical tests comparing typical vs. non-typical interactions
+
+
+https://github.com/user-attachments/assets/dba4aed3-b1a1-4eed-848b-84935ea54b41
+
